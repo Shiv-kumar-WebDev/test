@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>hello World</h1>
+    <h1>hello World 2</h1>
 <script src="script.js"></script>
 </body>
 </html>
