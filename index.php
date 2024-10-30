@@ -7,10 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>hellow rinki</h1>
-    <h1>hello World 2</h1>
-    <h1>hello World!, Shiv</h1>
-    <h1>hello World!, rinki2</h1>
+    
 <script src="script.js"></script>
 </body>
 </html>
